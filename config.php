@@ -6,7 +6,7 @@
 
 $host = "127.0.0.1"; // recomanded you use 127.0.0.1
 $user = "root"; // change according to your MySQL
-$pass = "";
+$pass = ""; // change if you use a password
 $db   = "url_short"; // your database
 
 $conn = new mysqli($host, $user, $pass, $db);
