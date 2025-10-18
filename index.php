@@ -146,7 +146,7 @@ footer {
         </div>
     <?php endif; ?>
 </div>
-<footer>Made with ❤️ by (Your name)</footer>
+<footer>Made with ❤️ by (Your name)</footer> <!-- you can change it to your name or your github name or copyright-->
 
 <script>
 const timerElement = document.getElementById("timer");
