@@ -17,3 +17,6 @@ CREATE TABLE urls (
 
 ALTER TABLE urls ADD COLUMN expires_at TIMESTAMP NULL DEFAULT NULL;
 ```
+
+## Preview
+![Preview](asset/preview.jpg)
