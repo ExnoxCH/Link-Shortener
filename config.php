@@ -4,7 +4,7 @@
 //                   Config
 //==============================================
 
-$host = "127.0.0.1";
+$host = "127.0.0.1"; // recomanded you use 127.0.0.1
 $user = "root"; // change according to your MySQL
 $pass = "";
 $db   = "url_short"; // your database
